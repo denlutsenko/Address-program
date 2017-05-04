@@ -1,0 +1,5 @@
+16:11:49.989 [main] ERROR GpsHandler:24 - can't read xls filejava.io.FileNotFoundException: C:\Users\lutsenko.d\Documents\IdeaProjects\Address-program\data\in\storres.xlsx (Не удается найти указанный файл)
+
+17:06:12.365 [main] ERROR GeoCoding:44 - can't find GPS coordinates, java.io.IOException: Server returned HTTP response code: 400 for URL: http://maps.googleapis.com/maps/api/geocode/json?address=&sensor=false
+address TT: 
+
