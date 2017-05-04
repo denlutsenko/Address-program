@@ -3,3 +3,6 @@
 17:06:12.365 [main] ERROR GeoCoding:44 - can't find GPS coordinates, java.io.IOException: Server returned HTTP response code: 400 for URL: http://maps.googleapis.com/maps/api/geocode/json?address=&sensor=false
 address TT: 
 
+17:26:08.375 [main] ERROR GeoCoding:44 - can't find GPS coordinates, java.io.IOException: Server returned HTTP response code: 400 for URL: http://maps.googleapis.com/maps/api/geocode/json?address=&sensor=false
+address TT: 
+
