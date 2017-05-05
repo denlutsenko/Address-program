@@ -3,7 +3,7 @@ package com.handler;
 import com.entity.StoreAddress;
 import com.fileservice.ExcelReader;
 import com.fileservice.ExcelWriter;
-import com.geocoding.GeoCoding;
+import com.geocoding.google.GeoCoding;
 import org.apache.log4j.Logger;
 
 import java.io.IOException;

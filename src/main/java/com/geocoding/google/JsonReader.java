@@ -1,4 +1,4 @@
-package com.geocoding;
+package com.geocoding.google;
 
 import com.google.common.base.Joiner;
 import org.json.JSONException;

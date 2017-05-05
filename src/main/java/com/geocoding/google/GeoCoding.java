@@ -1,4 +1,4 @@
-package com.geocoding;
+package com.geocoding.google;
 
 import com.entity.StoreAddress;
 import com.google.common.collect.Maps;
